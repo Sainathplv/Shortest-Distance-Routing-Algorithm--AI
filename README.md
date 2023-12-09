@@ -15,10 +15,10 @@ TASK-1
 
 ———————————————	PROGRAMMING LANGUAGE   	————————
 1)Intially
-# we need find a search algorithm for a given text file
-# if the text file has source,destination,and distance
-# so firstly we need to get the data from the lines and seperate them as source,destination,and distance
-# and then plot a graph to that
+ we need find a search algorithm for a given text file
+ if the text file has source,destination,and distance
+ so firstly we need to get the data from the lines and seperate them as source,destination,and distance
+ and then plot a graph to that
 created a plotgraph(function)
 
 2)if it is heuristic file
